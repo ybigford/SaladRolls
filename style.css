@@ -144,8 +144,8 @@ button {
         padding: 5px;
     }
 
-    p {
-        .copyright: 5pt;
+    .copyright {
+        font-size: 5pt;
     }
 
 }
