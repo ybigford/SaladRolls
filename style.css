@@ -100,6 +100,23 @@ button {
 }
 
 
+.copyright {
+
+    font-family: "Helvetica", Arial, sans-sans-serif;
+    font-size: 8pt;
+    font-weight: lighter;
+    color: #91C788;
+    letter-spacing: 5px;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    position: absolute;
+    bottom: 5px;
+    margin-bottom: none;
+
+
+}
+
 
 
 /* Media Query: tablet or smaller */
