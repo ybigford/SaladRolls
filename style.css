@@ -132,7 +132,7 @@ button {
     }
 
     p {
-        font-size: 10pt;
+        .copyright: 8pt;
     }
 
 }
