@@ -104,6 +104,16 @@ button {
 
 /* Media Query: tablet or smaller */
 @media screen and (max-width: 900px) {
+    
+    body {
+
+    background-image: url('images/whiteLogo.jpg');
+    background-size: cover;
+    width: 80%;
+    height: 80%;
+
+
+}
     .container {
         margin: auto 10px;
     }
