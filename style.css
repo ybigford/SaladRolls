@@ -120,7 +120,7 @@ button {
 
 
 /* Media Query: tablet or smaller */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
     
   
     .container {
@@ -128,11 +128,12 @@ button {
     }
 
     button {
-        font-size: 10pt;
+        font-size: 6pt;
+        padding: 5px;
     }
 
     p {
-        .copyright: 8pt;
+        .copyright: 5pt;
     }
 
 }
