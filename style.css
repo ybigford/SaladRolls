@@ -136,6 +136,12 @@ button {
     .container {
         margin: auto 10px;
     }
+    
+    buttons {
+        padding-top: none;
+        padding-bottom: none;
+    }
+    
 
     button {
         font-size: 6pt;
