@@ -150,6 +150,19 @@ button {
         letter-spacing: 2px;
         
     }
+    
+    
+    .salad1 {
+
+    width: 10%;
+    border-radius: 50%;
+    opacity: 80%;
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    display: none;
+
+    }
 
     .copyright {
         font-size: 5pt;
