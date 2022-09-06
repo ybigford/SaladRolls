@@ -160,8 +160,8 @@ button {
         border-radius: 50%;
         opacity: 80%;
         position: absolute;
-        left: 5%;
-        top: 10%;
+        left: 10%;
+        top: 20%;
         display: none;
 
     }
