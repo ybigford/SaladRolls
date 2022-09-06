@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    $(".salad1").fadeIn(6000);
+    $(".salad1").slideDown(6000);
 });
 
 
