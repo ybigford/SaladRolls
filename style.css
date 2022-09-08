@@ -240,8 +240,8 @@ form button:hover {
     display: flex;
     flex-direction: column;
     padding: 2vw 4vw;
-    width: 70%;
-    max-width: 400px;
+    width: 80%;
+    max-width: 500px;
     border-radius: 10px;
     position: absolute;
     left: 25%;
