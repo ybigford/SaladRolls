@@ -115,6 +115,18 @@ button {
 
 
 
+.contactcontainer {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    position: absolute;
+    bottom: 15%;
+
+}
+
+
 
 form {
     background-color: #fff;
