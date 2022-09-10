@@ -6,6 +6,7 @@ $(document).ready(function(){
 
 let response = document.getElementById("response");
 let contactcontainer = document.getElementById("contactcontainer");
+let clear = document.getElementById("form1");
 
 function onResponse() {
     response.classList.add("on-response");
@@ -15,6 +16,7 @@ function onResponse() {
 function offResponse() {
     response.classList.remove("on-response");
     contactcontainer.style.display = 'flex';
+    clear.reset();
 }
 
 
