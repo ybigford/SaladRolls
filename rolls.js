@@ -4,4 +4,17 @@ $(document).ready(function(){
 });
 
 
+let response = document.getElementById("response");
+let contactcontainer = document.getElementById("contactcontainer")
+
+function onResponse() {
+    response.classList.add("on-response");
+    contactcontainer.style.display = 'none';
+}
+
+function offResponse() {
+    response.classList.remove("on-response");
+    contactcontainer.style.display = 'flex';
+}
+
 
