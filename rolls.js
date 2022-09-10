@@ -5,7 +5,7 @@ $(document).ready(function(){
 
 
 let response = document.getElementById("response");
-let contactcontainer = document.getElementById("contactcontainer")
+let contactcontainer = document.getElementById("contactcontainer");
 
 function onResponse() {
     response.classList.add("on-response");
