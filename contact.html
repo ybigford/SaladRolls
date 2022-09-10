@@ -20,16 +20,31 @@
     
     </div>
     
-    <div class="contactcontainer">
+    <div class="contactcontainer" id="contactcontainer">
+    
         <form>
+
             <h2>Contact Us</h2>
-            <input type="text" id="name" placeholder="Name" required>
+            
             <input type="email" id="email" placeholder="Email" required>
             <input type="text" id="phonenumber" placeholder="Phone No">
             <textarea id="message" rows="6" placeholder="Message"></textarea>
-            <button class="send"><a href="mailto:yapabigford@gmail.com">Send</a></button>
+            <button class="send" id="send1" onclick="onResponse()">Send</button>
+            
+        
         </form>
+   
     </div>
+
+    <div class="response" id="response"> 
+        <img src="C:\Users\12069\OneDrive\Desktop\SaladRolls\images\sent.png" alt="" class="sent">
+        <h3>Thanks! We'll get back to you shortly!</h3>
+        
+        <button class="okbutton" onclick="offResponse()">OK</button>
+
+
+    </div>
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="rolls.js"></script>   
