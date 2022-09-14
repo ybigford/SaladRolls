@@ -254,6 +254,16 @@ form button:hover {
 
 
 
+.options {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
 
 
 /* Media Query: tablet or smaller */
