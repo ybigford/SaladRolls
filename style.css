@@ -422,4 +422,20 @@ form button:hover {
     
     }
     
+    
+    .salad5 {
+    width: 50%;
+    
+}
+
+
+
+.construction {
+
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
 }
