@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    $(".salad1").slideDown(4000);
+    $(".salad1").slideDown(3000);
 });
 
 
