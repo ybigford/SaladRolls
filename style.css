@@ -274,18 +274,22 @@ form button:hover {
 
 
 .salad5 {
-    width: 90%;
-    
-}
 
+    width: 10%;
+    opacity: 60%;
+    margin-top: 30px;
+    position: absolute;
+    bottom: 50%;
+}
 
 
 .construction {
 
-    width: 30%;
+    width: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
+    text-align: center;
+  
 }
 
 
@@ -423,19 +427,6 @@ form button:hover {
     }
     
     
-    .salad5 {
-    width: 50%;
-    
-}
-
-
-
-.construction {
-
-    width: 20%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+   
     
 }
